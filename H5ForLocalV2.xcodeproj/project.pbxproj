@@ -16,6 +16,7 @@
 		E011ADF22B29D53F00591984 /* H5ForLocalV2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E011ADF12B29D53F00591984 /* H5ForLocalV2Tests.swift */; };
 		E011ADFC2B29D53F00591984 /* H5ForLocalV2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E011ADFB2B29D53F00591984 /* H5ForLocalV2UITests.swift */; };
 		E011ADFE2B29D53F00591984 /* H5ForLocalV2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E011ADFD2B29D53F00591984 /* H5ForLocalV2UITestsLaunchTests.swift */; };
+		E011AE0B2B29D5C200591984 /* H5 in Resources */ = {isa = PBXBuildFile; fileRef = E011AE0A2B29D5C200591984 /* H5 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E011ADF72B29D53F00591984 /* H5ForLocalV2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = H5ForLocalV2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E011ADFB2B29D53F00591984 /* H5ForLocalV2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = H5ForLocalV2UITests.swift; sourceTree = "<group>"; };
 		E011ADFD2B29D53F00591984 /* H5ForLocalV2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = H5ForLocalV2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E011AE0A2B29D5C200591984 /* H5 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = H5; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		E011ADD92B29D53900591984 /* H5ForLocalV2 */ = {
 			isa = PBXGroup;
 			children = (
+				E011AE0A2B29D5C200591984 /* H5 */,
 				E011ADDA2B29D53900591984 /* AppDelegate.swift */,
 				E011ADDC2B29D53900591984 /* SceneDelegate.swift */,
 				E011ADDE2B29D53900591984 /* ViewController.swift */,
@@ -234,6 +237,7 @@
 				E011ADE72B29D53F00591984 /* LaunchScreen.storyboard in Resources */,
 				E011ADE42B29D53F00591984 /* Assets.xcassets in Resources */,
 				E011ADE22B29D53900591984 /* Main.storyboard in Resources */,
+				E011AE0B2B29D5C200591984 /* H5 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
